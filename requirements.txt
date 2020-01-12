@@ -1,0 +1,5 @@
+tensorflow==1.14
+shap==0.32.1
+spacy
+nltk
+kerasS
